@@ -4,3 +4,7 @@
 
 <img width="1300" alt="Graphical_Abstract_HW" src="https://github.com/user-attachments/assets/66647b72-87b0-490b-851b-88d90ba7eb5a">
 
+|TH|TH|
+|----|----|
+|TD|TD|
+|TD|TD|
