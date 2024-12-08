@@ -16,7 +16,9 @@ Select a pre-trained model of different configurations of LSTM and Bi-LSTM.
 
 ## Usage
 The code uses Pytorch. Please install the Pytorch Package.
+
 Unzip Melspec.zip in the Dataset Folder and locate it in the Dataset folder.
+
 Select pre-trained data in the Model Folder if only the pre-trained LSTM is proven.
 
 ## Principal Results
