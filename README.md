@@ -24,10 +24,8 @@ Select pre-trained data in the Model Folder if only the pre-trained LSTM is prov
 ## Principal Results
 After uncertainty evaluation, we obtained the following confusion matrix.
 
-<img width="404" alt="Confusion Matrix Bi-LSTM" src="https://github.com/NakanoMariko/Test/blob/main/Confusion%20Matrix%20Bi-LSTM.png">
+[Bi-LSTM] <img width="404" alt="Confusion Matrix Bi-LSTM" src="https://github.com/NakanoMariko/Test/blob/main/Confusion%20Matrix%20Bi-LSTM.png">     [LSTM]  <img width="404" alt="Confusion Matrix LSTM" src="https://github.com/NakanoMariko/Test/blob/main/Confusion%20Matrix%20LSTM.png">
 
-<img width="404" alt="Confusion Matrix LSTM" src="https://github.com/NakanoMariko/Test/blob/main/Confusion%20Matrix%20Bi-Bi-LSTM.png">
-
-
+## Citation
 
 
