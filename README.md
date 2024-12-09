@@ -17,7 +17,7 @@ Select a pre-trained model of different configurations of LSTM and Bi-LSTM.
 ## Usage
 The code uses Pytorch. Please install the Pytorch Package.
 
-Unzip Melspec.zip in the Dataset Folder and locate it in the Dataset folder.
+Unzip Melspec.zip in the Dataset Folder and locate it in the local Dataset folder.
 
 Select pre-trained data in the Model Folder if only the pre-trained LSTM is proven.
 
@@ -25,6 +25,11 @@ Select pre-trained data in the Model Folder if only the pre-trained LSTM is prov
 After uncertainty evaluation, we obtained the following confusion matrix.
 
 [Bi-LSTM] <img width="202" alt="Confusion Matrix Bi-LSTM" src="https://github.com/NakanoMariko/Test/blob/main/Confusion%20Matrix%20Bi-LSTM.png">     [LSTM]  <img width="202" alt="Confusion Matrix LSTM" src="https://github.com/NakanoMariko/Test/blob/main/Confusion%20Matrix%20LSTM.png">
+
+## Dataset
+The dataset is being expanded to include mosquito wingbeat signals under different conditions, such as mosquito age, feeding condition, different dengue virus serotypes (type 2 and type 3), and environmental conditions(temperature and humidity).
+
+The dataset will be available in this repository as soon as possible.
 
 ## Citation
 
