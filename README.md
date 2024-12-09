@@ -36,6 +36,5 @@ The link to the dataset will be available in this repository.
 ### Example of the Wingbeat signals
 The wingbeat signal of a healthy Ae. aegypti mosquito and that of a Dengue 2-infected Ae. aegypti mosquito are available in the "Healthy and Infected Mosquitoes" folder.
 
-## Citation
 
 
