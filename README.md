@@ -7,19 +7,19 @@
 ## File Description
 
 ### Training_LSTM.py  
-Trainig LSTM using Melspec data of wingbeat signal.
-Select different configurations of LSTM and Bi-LSTM.
+Train LSTM using Melspec data of the mosquito's wingbeat signal.
+Select different configurations of LSTM and Bi-LSTM for training.
 
 ### Testing Testing_LSTM_MC_DO.py    
-Testing LSTM and Monte-Carlo Dropout and uncertainty evaluation.
+Test LSTM and carry out the uncertainty evaluation based on the Monte-Carlo Dropout.
 Select a pre-trained model of different configurations of LSTM and Bi-LSTM.
 
 ## Usage
 The code uses Pytorch. Please install the Pytorch Package.
 
-Unzip Melspec.zip in the Dataset Folder and locate it in the local Dataset folder.
+If one of the different configurations of LSTM, please Unzip Melspec.zip in the Dataset Folder and locate it in the local Dataset folder.
 
-Select pre-trained data in the Model Folder if only the pre-trained LSTM is proven.
+If you want to prove the different configurations of pre-trained LST, please select pre-trained weight data in the Model Folder.
 
 ## Principal Results
 After uncertainty evaluation, we obtained the following confusion matrix.
@@ -29,7 +29,10 @@ After uncertainty evaluation, we obtained the following confusion matrix.
 ## Dataset
 The dataset is being expanded to include mosquito wingbeat signals under different conditions, such as mosquito age, feeding condition, different dengue virus serotypes (type 2 and type 3), and environmental conditions(temperature and humidity).
 
-The dataset will be available in this repository as soon as possible.
+The link to the dataset will be available in this repository.
+
+### Example of the Wingbeat signals
+A wingbeat signal of healthy Ae. aegypti mosquito and a wingbeat signal of infected Ae. aegypti mosquito are available in the 
 
 ## Citation
 
