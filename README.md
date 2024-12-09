@@ -1,4 +1,6 @@
-# Dengue-Infected Mosquito Detection with Uncertainty Evaluation of the Wingbeats using Monte Carlo Dropout
+# Dengue-Infected Mosquito Detection with Uncertainty Evaluation of the Wingbeats using Monte Carlo Dropout (Paper ID 9221)
+
+## Israel Torres, Mariko Nakano, Jorge Cime-Castillo, Enrique Escamilla-Hernandez, Osvaldo Lopez-Garcia, Humberto Lanz-Mendoza
 
 ## Graphical Abstract
 
